@@ -11,16 +11,16 @@ Vice is a dark and vibrant colorscheme for vim.
 Install vim-vice using your plugin manager of choice:
 ```
 " Vundle
-Plugin 'bcicen/vim-vice'
+Plugin 'shmcgrath/vim-vice'
 " vim-plug
-Plug 'bcicen/vim-vice'
+Plug 'shmcgrath/vim-vice'
 " NeoBundle
-NeoBundle 'bcicen/vim-vice'
+NeoBundle 'shmcgrath/vim-vice'
 ```
 
 Or install manually:
 ```
-curl -Lo ~/.vim/colors/vice.vim https://raw.githubusercontent.com/bcicen/vim-vice/master/colors/vice.vim
+curl -Lo ~/.vim/colors/vice.vim https://raw.githubusercontent.com/shmcgrath/vim-vice/master/colors/vice.vim
 ```
 
 And activate in your `.vimrc`:
@@ -69,3 +69,6 @@ gotop -c vice
 
 [logo]: http://i.imgur.com/HWvyN7M.png "vice"
 [screencap]: http://i.imgur.com/WPRvqy4.png "vice"
+
+## [shmcgrath](https://github.com/shmcgrath/vim-vice) changes
+- Add information for FoldColumn
