@@ -72,3 +72,4 @@ gotop -c vice
 
 ## [shmcgrath](https://github.com/shmcgrath/vim-vice) changes
 - Add information for FoldColumn
+- Add iTerm2 colorscheme
